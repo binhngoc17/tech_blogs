@@ -1,4 +1,4 @@
 tech_blogs
 ==========
 
-Techincal Blogs I Follow
+- [Aphyr's Blog](http://aphyr.com/posts) - DB, Distributed Systems
