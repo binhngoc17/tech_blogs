@@ -11,6 +11,9 @@ tech_blogs
 - [Alvaro Videla](https://videlalvaro.github.io/) - RabbitMQ, Erlang
 - [Paolo D'Incau](http://pdincau.wordpress.com/) - Erlang
 - [Brendan D. Gregg](http://pdincau.wordpress.com/) - DTrace, Performance
-- [Tony Arcieri](http://tonyarcieri.com/) - Ruby, Celulloid, Parallelism, Concurrency, Distributed Programming
+- [Tony Arcieri](http://tonyarcieri.com/) - Ruby, Celulloid, Parallelism, Concurrency, Distributed Systems
 - [Karl Seguin](http://openmymind.net/) - Go, Concurrency, Redis
 - [Tom Moertel](http://blog.moertel.com/archive.html) - Programming
+- [Ebay Tech](http://www.ebaytechblog.com/) - Distributed Systems, Testing
+- [Netflix Tech](http://techblog.netflix.com/) - Distributed Systems
+- [Etsy Code As Craft](http://codeascraft.com/) - Distributed System, Testing
