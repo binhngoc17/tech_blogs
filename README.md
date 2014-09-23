@@ -1,7 +1,7 @@
 tech_blogs
 ==========
 
-- [mrb](http://michaelrbernste.in/)- Types, Programming Languages, Garbage Collection, Distributed Systems
+- [mrb](http://michaelrbernste.in/) - Types, Programming Languages, Garbage Collection, Distributed Systems
 - [Aphyr](http://aphyr.com/posts) - DB, Distributed Systems
 - [Jesper L. Andersen](https://medium.com/@jlouis666/) - Erlang, Distributed Systems
 - [James Coglan](https://blog.jcoglan.com/) - Ruby, Javascript
