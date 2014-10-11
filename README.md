@@ -17,3 +17,4 @@ tech_blogs
 - [Ebay Tech](http://www.ebaytechblog.com/) - Distributed Systems, Testing
 - [Netflix Tech](http://techblog.netflix.com/) - Distributed Systems
 - [Etsy Code As Craft](http://codeascraft.com/) - Distributed System, Testing
+- [Miguel Camba](http://miguelcamba.com/) - Ruby, Elixir, Emberjs
